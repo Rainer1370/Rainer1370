@@ -11,12 +11,12 @@ I'm Rob Rainer (he/him), an aspiring Controls Engineer, System Integrator, and A
 
 ### 🌱 Fun Facts
 - I'm a gardening enthusiast and like growing my own food (when time permits) 🌿.
-- I'm a mediocre musician 🎸 — I like playing and writing songs when I can.
+- I'm a mediocre musician 🎸, I like playing and writing songs when I can.
 - I try to stay active through exercise and keep my mind sharp.
 - I'm a bit of an aspiring linguist.
 - I love open-source projects and general tinkering within control system frameworks or other obscure platforms.
 - Proud husband, dad, and scientist/engineer, just trying to navigate life with grace and integrity.
-- I try to accept myself with the same openness and patience I offer to others — still a work in progress.
+- I try to accept myself with the same openness and patience I offer to others, but I'm still a work in progress.
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/robrainer)
