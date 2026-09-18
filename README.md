@@ -12,6 +12,7 @@ My work focuses on making complex systems easier to observe, troubleshoot, opera
 - **[Control Lattice Systems](https://controllattice.com)** — Independent engineering practice providing controls, diagnostics, digital twins, reliability assessments, and technical products.
 - **Source Stability Observer** — A LabJack T8 and EPICS-based diagnostic package that synchronizes engineering signals with detector exposures and narrows the troubleshooting search space.
 - **[Same Frequency](https://samefrequencydating.com)** — A neurodivergent-first connection platform built around relationship compatibility, privacy, and a short path off the app.
+- **[Small Useful Things](https://small-useful-things.rainer1370.chatgpt.site)** — Free, private-in-browser tools for weighing decisions, comparing repair versus replacement, and drafting difficult messages.
 - **Shift Logic** — My paperback collection of 40 five-minute deduction puzzles for adults, available through [Amazon](https://www.amazon.com/s?k=Shift+Logic+Robert+S+Rainer&i=stripbooks).
 
 ## Selected technical focus
@@ -27,6 +28,7 @@ My work focuses on making complex systems easier to observe, troubleshoot, opera
 
 - [Engineering portfolio](https://rainer1370.com)
 - [Control Lattice Systems](https://controllattice.com)
+- [Small Useful Things](https://small-useful-things.rainer1370.chatgpt.site)
 - [LinkedIn](https://www.linkedin.com/in/robert-rainer)
 - [ResearchGate](https://www.researchgate.net/profile/Robert-Rainer)
 - [ORCID](https://orcid.org/0000-0002-0576-4291)
